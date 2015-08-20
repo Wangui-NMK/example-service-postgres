@@ -1,2 +1,3 @@
-# example-service-postgres
-A Binder-compatibible repo that uses Postgres
+# Example Binder with Postgres
+
+A Binder-compatible repo that uses Postgres
